@@ -1,0 +1,10 @@
+/* ParentContainer.module.css */
+.parent {
+    text-align: center;
+    border: 2px solid black;
+    width: 50%;
+    margin: 10vh auto;
+    border-radius: 10px;
+    min-width: 370px;
+  }
+  
